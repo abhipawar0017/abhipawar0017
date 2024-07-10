@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pawar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
+- 🌱 I’m currently learning **Data Science**
+
+- 💬 Ask me about **Power BI, Tableau, Data Analytics**
+
+- 📫 How to reach me **abhipawar1910@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/abhi.r.pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi.r.pawar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
