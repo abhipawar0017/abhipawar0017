@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pawar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 Data Scientist skilled in machine learning, statistical analysis, and data-driven decision-making, with expertise in Python, SQL, and AI-driven insights.
 
-- 💬 Ask me about **Power BI, Tableau, Data Analytics**
+- 💬 Ask me about **Data Analytics, Data Science and Artificial Intelligence**
 
 - 📫 How to reach me **abhipawar1910@gmail.com**
 
