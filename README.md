@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek Pawar</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h1 align="center">Hi 👋, I'm Abhishek </h1>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 - 🌱 Data Scientist skilled in machine learning, statistical analysis, and data-driven decision-making, with expertise in Python, SQL, and AI-driven insights.
 
