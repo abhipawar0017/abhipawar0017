@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Data Analytics, Data Science and Artificial Intelligence**
 
-- 📫 How to reach me **abhipawar1910@gmail.com**
+- 📫 To reach me just mail to **abhipawar1910@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
